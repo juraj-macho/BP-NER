@@ -1,0 +1,25 @@
+Materials-------------------------------
+
+http://www.juls.savba.sk/ 	--Jazykovedný ústav Ľudovíta Štúra
+http://www.geoexcel.com/ 	--GeoExcel
+https://www.freemap.sk/		--FreeMap - digitalna mapa slovenska
+http://www.isni.org/search	--ISNI - International Standard Name Identifier
+https://search.interpi.cz/	--INTERPI - Interoperabilita v paměťových institucích
+https://www.geonames.org/	--GeoNames - The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge.
+
+Existujuce Ner--------------------------
+
+Ondrej Kassak
+Bednarik http://nlp.bednarik.top/ner/ 
+Nametag (morphodita) http://ufal.mff.cuni.cz/nametag  
+
+Guides----------------------------------
+
+
+Tools-----------------------------------
+
+https://easynote.io/ 		--EasyNote - tasks manager
+
+
+
+
